@@ -1,5 +1,3 @@
-Here is a polished GitHub‑ready summary you can put in your README:
-
 ***
 
 ### Project Overview
